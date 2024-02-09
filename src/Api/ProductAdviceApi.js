@@ -162,7 +162,7 @@ export const ProductAdviceInfo = async (setData) => {
 
                                 {
                                     "text": "Harika bir site! Kullanıcı dostu arayüzü ve içerikleriyle beni etkiledi. Her ziyaretimde yeni bir şeyler öğreniyorum. Kesinlikle tavsiye ederim!",
-                                    "name": "Zort",
+                                    "name": "Zeynep",
                                     "star": 5
                                 },
                                 {
@@ -177,17 +177,17 @@ export const ProductAdviceInfo = async (setData) => {
                                 },
                                 {
                                     "text": "Kullanışlı bir site ancak bazı bölümlerde iyileştirmeler yapılabilir. Özellikle arama motoru daha etkili olabilir.",
-                                    "name": "Zeynep",
+                                    "name": "Zeliha",
                                     "star": 10
                                 },
                                 {
                                     "text": "Ürünlerin tazeliği konusunda endişelerim vardı ama bu siteyi kullanarak bu konuda rahatladım. Teşekkürler!",
-                                    "name": "Obbaa",
+                                    "name": "Odin",
                                     "star": 3
                                 },
                                 {
                                     "text": "Ne harika bir site! İçeriğin çeşitliliği ve kalitesi beni şaşırttı. Herkese tavsiye ederim.",
-                                    "name": "HAyde",
+                                    "name": "Hayri",
                                     "star": 6
                                 }
                             ]

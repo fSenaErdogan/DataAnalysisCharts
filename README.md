@@ -1,8 +1,38 @@
-# React + Vite
+# Data Analysis Charts
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Proje Hakkında
 
-Currently, two official plugins are available:
+Data Analysis Charts, veri analizi süreçlerinde kullanılabilecek çeşitli grafik ve çizelgeleri oluşturmak için Python dili kullanılarak geliştirilmiş bir projedir. Bu proje, pandas, matplotlib ve seaborn gibi popüler Python kütüphanelerini kullanarak veri setleri üzerinde görselleştirme yapmayı kolaylaştırır. Analitik projelerde veri anlayışını derinleştirmek ve sunumları zenginleştirmek için idealdir.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Özellikler
+
+- Çoklu veri setleri ile çalışabilme.
+- Bar grafikleri, çizgi grafikleri, dağılım grafikleri ve çok daha fazlasını destekler.
+- Veri analizi ve görselleştirme sürecini basitleştirir.
+- Çeşitli özelleştirme seçenekleri sunar.
+
+## Başlarken
+
+Bu bölüm, projenin nasıl kurulacağını ve kullanılacağını açıklar.
+
+### Gereksinimler
+
+- Node.js 20
+
+### Kurulum
+
+1. Projeyi klonlayın:
+```bash
+git clone https://github.com/fSenaErdogan/DataAnalysisCharts.git
+```
+Data Analysis Charts'ı kullanmak için, terminal veya komut satırınızda aşağıdaki komutu çalıştırın:
+
+```bash
+npm run dev
+# or
+npm run build && npm start
+```
+
+
+### Demo Image
+![Data Analysis Charts Demo-Odrena](https://i.hizliresim.com/26ebgx5.png)
